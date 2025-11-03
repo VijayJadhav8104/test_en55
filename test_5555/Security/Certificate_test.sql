@@ -1,0 +1,4 @@
+﻿CREATE CERTIFICATE [Certificate_test]
+    AUTHORIZATION [dbo]
+    WITH SUBJECT = N'column_encryption_test', START_DATE = N'2025-10-28T06:38:44', EXPIRY_DATE = N'2026-10-28T06:38:44';
+

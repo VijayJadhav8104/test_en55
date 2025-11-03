@@ -1,0 +1,10 @@
+03/11/2025 4:48:20 PM	This log contains information about the import schema operation into project 'test_5555' on computer 'ADHRTTITLC307' by user '23586'.
+03/11/2025 4:48:20 PM	Deserializing model
+03/11/2025 4:48:20 PM	Resolving model
+03/11/2025 4:48:20 PM	Visiting imported model for types
+03/11/2025 4:48:21 PM	Scanning project for duplicate elements
+03/11/2025 4:48:21 PM	Finished duplicate element processing
+03/11/2025 4:48:21 PM	Processing extra files
+03/11/2025 4:48:21 PM	Finished importing Data-tier Application file.
+03/11/2025 4:48:21 PM	A summary of the import was saved to the following location: D:\Local_Repos\test_5555\test_5555\Import Schema Logs\test_5555_20251103111820.log
+03/11/2025 4:48:21 PM	Click Finish to continue...
